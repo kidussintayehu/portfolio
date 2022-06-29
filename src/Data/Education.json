@@ -1,30 +1,31 @@
 [
     {
         "id":1,
-        "coursename":"Graphic Design",
-        "courseyear":"2020",
-        "institute":"Kalapurnam Institute",
+        "coursename":"Front-End Development With React",
+        "courseyear":"2021",
+        "institute":"Coursera",
         "grade":"A+ Grade"
     },
     {
         "id":2,
-        "coursename":"B.Tech in Computer Science and Engineering",
+        "coursename":"Software  Engineering",
         "courseyear":"2019",
-        "institute":"Nirma University",
-        "grade":"68% Percentage"
+        "institute":"Addis Ababa University",
+        "grade":"90% Percentage"
     },
     {
         "id":3,
-        "coursename":"Diploma in Computer Engineering",
-        "courseyear":"2016",
-        "institute":"Tolani Foundation Gandhidham Polytechnic",
-        "grade":"84% Percentage"
+        "coursename":"Introduction to Computer Science",
+        "courseyear":"2020",
+        "institute":"Harvard University",
+        "grade":"89% Percentage"
     },
     {
         "id":4,
-        "coursename":"SSC",
-        "courseyear":"2013",
-        "institute":"St. Xavier's High School",
-        "grade":"82.83% Percentage"
+        "coursename":"Version Control and Open Source",
+        "courseyear":"2021",
+        "institute":"Orange Digital Lab",
+        "grade":"95% Percentage"
     }
+
 ]

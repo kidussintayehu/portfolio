@@ -9,7 +9,10 @@ const About = () => {
           <div className="col-sm-11 offset-sm-1">
             <div className="aboutcontent">
               <h2>About Me</h2>
-              <p>I'm a web developer, graphics designer and UI/UX designer. I love to solve design problems, develop new features and design prototypes using different mediums. My work is mainly focused on frontend-development. As for graphic designs, my work mainly involves photo manipulation. Besides, I also like doing photography and videography, where I can express my creative thought process.</p>
+              <p>I'm a Full Stack developer and  UI/UX designer.
+                 I love to design softwares, develop new features and impliment 
+                  using different technologies. My work is mainly focused on 
+                 web-development.  I also like solving realife problems using softwares.</p>
             </div>
           </div>
         </div>

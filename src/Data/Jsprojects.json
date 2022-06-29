@@ -1,17 +1,16 @@
 [
   {
     "id": 1,
-    "projectlink": "https://www.youtube.com/embed/xidxWceG-wA",
-    "codelink": "https://github.com/poojagarva28/portfolio"
+   
+    "codelink": "https://github.com/kidussintayehu/tibeb-meda"
   },
   {
     "id": 2,
-    "projectlink": "https://www.youtube.com/embed/aWEYQRIfMJ4",
-    "codelink": "https://github.com/poojagarva28/todo-javascript"
+   
+    "codelink": "https://github.com/kidussintayehu/delivery-web-app"
   },
   {
     "id": 3,
-    "projectlink": "https://www.youtube.com/embed/Li1-9zinwEk",
-    "codelink": "https://github.com/poojagarva28/Video-Player-JS"
+    "codelink": "https://github.com/kidussintayehu/world-time-and-weather-webapp"
   }
 ]

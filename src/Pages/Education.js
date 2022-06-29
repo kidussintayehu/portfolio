@@ -52,17 +52,17 @@ const Education = () => {
                     </div>
                     <div className="col-sm-8">
                       <div className="educationright" data-aos="fade-left">
-                        <h5>Infibeam Avenues Limited</h5>
-                        <h6>Project - "E-Commerce and Retailing System"</h6>
+                        <h5>Mereb Tech</h5>
+                        <h6>Project - "E-Commerce and World Clock and weather System"</h6>
                         <h6>
-                          - HTML, CSS, Bootstrap, Javascript, jQuery
+                          - HTML, CSS, Bootstrap, Javascript, React 
                           <br />
-                          - Wordpress
+                          - Redux and Context Hook State managment
                           <br />
-                          - Customize Themes
+                          - Nodejs and Flask
                           <br />
-                          - Woocommerce
-                          <br />- Stripe
+                           - Stripe
+                          <br />
                         </h6>
                       </div>
                     </div>

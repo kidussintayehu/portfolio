@@ -9,13 +9,12 @@ const Contact = () => {
 
   const sendEmail = (e) => {
     e.preventDefault();
-
-    emailjs
+      emailjs
       .sendForm(
-        "service_qt6ynin",
-        "template_fti9rjh",
+        "service_oxxsar3",
+        "template_0v8gip7",
         formRef.current,
-        "user_GN17fKoDZSyAlOwwLj3LN"
+        "mlfoqIg2jRceBTEHH"
       )
       .then(
         (result) => {

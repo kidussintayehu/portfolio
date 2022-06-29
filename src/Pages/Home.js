@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home.css";
-import profileimg from "../assets/img/profileimg.png";
-import Pdf from "../assets/pdf/poojagarva.pdf";
+import profileimg from "../assets/img/profileimg.jpg";
+import Pdf from "../assets/pdf/kidus.pdf";
 import { Link } from "react-router-dom";
 import Linkedinicon from "../assets/img/socialicons/linkedin.png";
 import Instagramicon from "../assets/img/socialicons/instagram.png";
@@ -23,7 +23,7 @@ const Home = () => {
               />
               <div className="socialmedia">
                 <a
-                  href="https://www.linkedin.com/in/poojagarva/"
+                  href="https://www.linkedin.com/in/kidus-sintayehu-8385b7227/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -35,7 +35,7 @@ const Home = () => {
                   />
                 </a>
                 <a
-                  href="https://github.com/poojagarva28"
+                  href="https://github.com/kidussintayehu"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -47,7 +47,7 @@ const Home = () => {
                   />
                 </a>
                 <a
-                  href="https://www.instagram.com/placesiwandered/"
+                  href="https://www.instagram.com/saint_sintayehu/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -59,7 +59,7 @@ const Home = () => {
                   />
                 </a>
                 <a
-                  href="mailto:poojagarva123@gmail.com"
+                  href="mailto:kidussintayehu60@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -76,8 +76,8 @@ const Home = () => {
           </div>
           <div className="col-sm-5 offset-sm-2">
             <div className="rightcontent" data-aos="fade-right">
-              <h1>Pooja Garva</h1>
-              <h2>Front End Developer</h2>
+              <h1>kidus Sintayehu</h1>
+              <h2>Software Developer</h2>
               <br />
               <div className="row">
                 <div className="col-sm-4">

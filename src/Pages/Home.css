@@ -43,7 +43,7 @@
 }
 
 #home .socialmedia {
-  position: absolute;
+  position: relative;
   right: -115px;
   height: inherit;
   width: inherit;
@@ -55,6 +55,7 @@
   border-right: 0px;
   z-index: 999;
   border-left: 0px;
+  margin:-1vw  0vw 1vw 21vw
 }
 
 #home .socialmedia::after {
