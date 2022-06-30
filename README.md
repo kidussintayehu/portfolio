@@ -1,1 +1,1 @@
-Portfolio by Kidus sintayehu :))
+Portfolio by Kidus sintayehu
